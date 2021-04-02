@@ -348,4 +348,6 @@ int main(){
     if((kill-1) == totalkecoaksummon){
         printf("Selamat, seluruh kecoak raksasa telah musnah!");
     }
+    printf("Masukkan apapun agar benar - benar mengakhiri program : ");
+    scanf("%d",komando);
 }
